@@ -1,0 +1,37 @@
+.headerTabSwitch {
+  display: flex;
+  margin: 15px;
+}
+
+.headerTabSwitch > div {
+  margin-left: 20px;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+.headerTabSwitch > div:hover {
+  cursor: pointer;
+  border-bottom: 4px solid rgb(253, 181, 108)
+}
+
+.tabActive {
+  border-bottom: 4px solid rgb(253, 181, 108)
+}
+
+.titleText {
+  margin-top: 60px;
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+.titleText ~ div {
+  margin-left: 50px;
+}
+
+.yogaPage > div > div {
+  margin-top: 10px;
+}
+
+table td {
+  padding: 0.5rem 1rem;
+  border: 1px solid #e9ebec;
+}
