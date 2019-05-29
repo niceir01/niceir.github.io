@@ -6,7 +6,7 @@ import pic3 from './massage-table.jpg'
 import './App.css'
 
 const yogaTitle = '👭 Yoga';
-const massageTitle = "👬 Massage";
+const massageTitle = "👭 Massage";
 class App extends Component {
   constructor() {
     super();
@@ -73,6 +73,7 @@ class App extends Component {
 
         <div style={{ fontWeight: 'bold', marginTop: '50px' }}>Contact</div>
         <div>mail@mail.niceir.com</div>
+        <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSd_QUfrfZmxkEd9pvQkUDGIKjsNZzeogioa9WlUIaUBxoHEdA/viewform?usp=sf_link">報名表單</a></div>
 
         <div style={{ fontWeight: 'bold', marginTop: '80px' }}>Location:</div>
 
